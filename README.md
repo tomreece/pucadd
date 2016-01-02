@@ -11,6 +11,9 @@ javascript:(function () { $('<script>').attr('src', 'https://tomreece.github.io/
 
 Save the bookmark.
 
+### Video of Setup and Usage
+https://youtu.be/csx5eGVpUiU
+
 ### Usage
 1. Go to https://pucatrade.com/search
 1. On the left, filter as you wish and click Search. For example, if you're about to enter all of your Black Theros cards then make sure only Black is selected and Theros is entered as the expansion.
